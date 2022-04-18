@@ -1,0 +1,5 @@
+o algoritmo não pede a altura do indivíduo
+o que acaba resultando em um erro por falta
+de dados, além de que o algoritmo não utiliza
+a variável nome e isso faz um uso desnecessário
+de memória
